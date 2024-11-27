@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Analytics &#8211; SolarOne</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>SolarOne</description>
+	<lastBuildDate>Mon, 23 Sep 2024 15:46:16 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2024/09/Untitled_design-removebg-preview.png</url>
+	<title>Analytics &#8211; SolarOne</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>13 Analytics Reports I Wish Companies Had Access To</title>
+		<link>./../../../13-analytics-reports-i-wish-companies-had-access-to/index.html</link>
+					<comments>./../../../13-analytics-reports-i-wish-companies-had-access-to/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sun, 22 Sep 2024 16:19:50 +0000</pubDate>
+				<category><![CDATA[Analytics]]></category>
+		<category><![CDATA[Marketing]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=315</guid>
+
+					<description><![CDATA[If you have ever worked in a business that has to manage their website analytics then you know that there’s usually a select group of people within your organization that are privy to advanced reports. These reports are rarely found on regular dashboards and if they are, it’s usually buried under a ton of other information.]]></description>
+										<content:encoded><![CDATA[
+<p>If you have ever worked in a business that has to manage their website analytics then you know that there’s usually a select group of people within your organization that are privy to advanced reports. These reports are rarely found on regular dashboards and if they are, it’s usually buried under a ton of other information.</p>
+
+
+
+<p>When it comes to analyzing data and understanding your website visitors, Google Analytics is the tool you probably already have in your toolbox. It’s flexible, robust, and free!</p>
+
+
+
+<p><a href="https://themes.ainoblocks.io/solarone/category/analytics/">Analytics </a><a href="https://themes.ainoblocks.io/solarone/category/marketing/">Marketing</a></p>
+
+
+
+<p></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../13-analytics-reports-i-wish-companies-had-access-to/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
